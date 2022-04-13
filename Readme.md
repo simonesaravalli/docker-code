@@ -1,3 +1,11 @@
-# Repository with personal code snippets for Docker
+# Simone Saravalli's Docker code snippets
 
-This repository is a storage for useful Docker codes I use in my DevOps role
+## About The Project
+
+This repository is a storage for useful Docker code snippets I found here and there, or I created by myself and put together as reference for my job as a DevOps engineer.
+
+## License
+
+There's no license, if you find something useful, take it :)
+
+
